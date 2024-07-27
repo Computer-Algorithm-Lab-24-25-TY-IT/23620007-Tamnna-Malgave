@@ -1,3 +1,3 @@
 # 23620007-Tamnna-Malgave
-Bubble sort program
-![Output_bubble](https://github.com/user-attachments/assets/1379a056-7ded-46b6-824e-5fb9b56d382b)
+Linear Search Program
+![output_profiling](https://github.com/user-attachments/assets/dc457cc5-f8e3-41e4-b3e3-9f1d5466db6f)
